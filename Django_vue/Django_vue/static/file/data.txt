@@ -1,0 +1,2 @@
+kValue: 103
+kValue2: 0.04
